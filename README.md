@@ -1,3 +1,4 @@
+
 # Gudiance-SDK-ROS
 The official ROS package of Guidance SDK for 32/64 bit Ubuntu and XU3.
 
@@ -50,3 +51,5 @@ We can use the dynamic reconfigure GUI to change the stereo algo used and its pa
 `rosrun image_view stereo_view stereo:=guidance image:=image_rect_color`   
 `rosrun rqt_reconfigure rqt_reconfigure `     
 `rosrun rviz rviz ` Change frame to "guidance". Add published point cloud pc2.
+
+-New Commit
